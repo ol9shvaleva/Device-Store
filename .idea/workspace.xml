@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="921a4c83-bd50-4ff8-8736-74d5fcdc8f00" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebChat/src/main/java/ru/Configurations/MvcConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebChat/src/main/java/ru/Controllers/SaleController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebChat/src/main/java/ru/DAOs/SaleDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebChat/src/main/java/ru/DAOs/SaleDAOImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebChat/src/main/java/ru/DAOs/UserDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebChat/src/main/java/ru/Domain/User.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/dataBaseSheme.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/src/main/java/ru/andrey/Configurations/AuthenticationConfiguration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/src/main/java/ru/andrey/Configurations/MvcConfiguration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/src/main/java/ru/andrey/Configurations/SecurityConfiguration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/src/main/java/ru/andrey/Controllers/MessageController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/src/main/java/ru/andrey/DAOs/MessageDAO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/src/main/java/ru/andrey/DAOs/MessageDAOImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/src/main/java/ru/andrey/DAOs/UserDAO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/src/main/java/ru/andrey/Domain/Message.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/src/main/java/ru/andrey/Domain/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/src/main/resources/templates/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebChat/src/main/resources/templates/login.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebChat/src/main/java/ru/andrey/Application.java" afterPath="$PROJECT_DIR$/WebChat/src/main/java/ru/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebChat/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/WebChat/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebChat/src/main/resources/templates/hello.html" afterPath="$PROJECT_DIR$/WebChat/src/main/resources/templates/hello.html" />
-    </list>
+    <list default="true" id="921a4c83-bd50-4ff8-8736-74d5fcdc8f00" name="Default" comment="" />
     <ignored path="Project.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/WebChat/target/" />
@@ -58,8 +36,8 @@
       <file leaf-file-name="SaleController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebChat/src/main/java/ru/Controllers/SaleController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,6 +58,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WebChat" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -109,7 +90,6 @@
         <option value="$PROJECT_DIR$/WebChat/src/main/java/ru/Application.java" />
         <option value="$PROJECT_DIR$/WebChat/src/main/resources/templates/hello.html" />
         <option value="$PROJECT_DIR$/WebChat/src/main/java/ru/DAOs/SaleDAOImpl.java" />
-        <option value="$PROJECT_DIR$/WebChat/src/main/java/ru/Controllers/SaleController.java" />
         <option value="$PROJECT_DIR$/DemoSpring_2/src/main/java/ru/Configurations/MvcConfiguration.java" />
         <option value="$PROJECT_DIR$/DemoSpring_2/src/main/java/ru/DAOs/SaleDAO.java" />
         <option value="$PROJECT_DIR$/DemoSpring_2/src/main/java/ru/Controllers/SaleController.java" />
@@ -120,6 +100,7 @@
         <option value="$PROJECT_DIR$/WebChat/src/main/java/ru/Configurations/MvcConfiguration.java" />
         <option value="$PROJECT_DIR$/WebChat/src/main/resources/templates/add.html" />
         <option value="$PROJECT_DIR$/WebChat/src/main/java/ru/Configurations/Security.java" />
+        <option value="$PROJECT_DIR$/WebChat/src/main/java/ru/Controllers/SaleController.java" />
       </list>
     </option>
   </component>
@@ -208,13 +189,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Device-Store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Device-Store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Device-Store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Device-Store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -740,16 +773,38 @@
       <workItem from="1464727252338" duration="4727000" />
       <workItem from="1464804785123" duration="9399000" />
       <workItem from="1464862111184" duration="4495000" />
-      <workItem from="1464867442893" duration="120000" />
+      <workItem from="1464867442893" duration="1066000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;+&quot;">
+      <created>1464868312649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1464868312649</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;+&quot;">
+      <created>1464868407909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1464868407909</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;+&quot;">
+      <created>1464868562042</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1464868562042</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22098000" />
+    <option name="totallyTimeSpent" value="23044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -758,13 +813,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14893617" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19117647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19117647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22416413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22416413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -824,6 +879,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="&quot;+&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;+&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -856,6 +913,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="21" column="81" selection-start-line="21" selection-start-column="81" selection-end-line="21" selection-end-column="81" />
+          <folding>
+            <marker date="1464811226317" expanded="true" signature="1189:1247" placeholder="INSERT INTO Sale... " />
+            <marker date="1464811226317" expanded="true" signature="1368:1419" placeholder="SELECT id_sa... sale_store" />
+            <marker date="1464811226317" expanded="true" signature="1572:1604" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1572:1615" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1572:1642" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1853:1942" placeholder="SELECT conte... message" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -891,6 +956,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="47" column="5" selection-start-line="17" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#256#257#0" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
+            <element signature="e#317#318#0" expanded="false" />
+            <element signature="e#348#349#0" expanded="false" />
+            <element signature="e#375#376#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
+            <element signature="e#482#483#0" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#561#562#0" expanded="false" />
+            <element signature="e#601#602#0" expanded="false" />
+            <element signature="e#638#639#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
+            <element signature="e#723#724#0" expanded="false" />
+            <element signature="e#767#768#0" expanded="false" />
+            <element signature="e#800#801#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -906,6 +991,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+          <folding>
+            <marker date="1464811226317" expanded="true" signature="1189:1247" placeholder="INSERT INTO Sale... " />
+            <marker date="1464811226317" expanded="true" signature="1368:1419" placeholder="SELECT id_sa... sale_store" />
+            <marker date="1464811226317" expanded="true" signature="1572:1604" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1572:1615" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1572:1642" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1853:1942" placeholder="SELECT conte... message" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -913,6 +1006,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -920,6 +1017,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -945,6 +1045,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#256#257#0" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
+            <element signature="e#317#318#0" expanded="false" />
+            <element signature="e#348#349#0" expanded="false" />
+            <element signature="e#375#376#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
+            <element signature="e#482#483#0" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#561#562#0" expanded="false" />
+            <element signature="e#601#602#0" expanded="false" />
+            <element signature="e#638#639#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
+            <element signature="e#723#724#0" expanded="false" />
+            <element signature="e#767#768#0" expanded="false" />
+            <element signature="e#800#801#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -959,6 +1079,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -973,6 +1097,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -987,6 +1114,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1464811226317" expanded="true" signature="1189:1247" placeholder="INSERT INTO Sale... " />
+            <marker date="1464811226317" expanded="true" signature="1368:1419" placeholder="SELECT id_sa... sale_store" />
+            <marker date="1464811226317" expanded="true" signature="1572:1604" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1572:1615" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1572:1642" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1853:1942" placeholder="SELECT conte... message" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1039,6 +1174,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="52" column="38" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,6 +1196,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="47" column="5" selection-start-line="17" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#256#257#0" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
+            <element signature="e#317#318#0" expanded="false" />
+            <element signature="e#348#349#0" expanded="false" />
+            <element signature="e#375#376#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
+            <element signature="e#482#483#0" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#561#562#0" expanded="false" />
+            <element signature="e#601#602#0" expanded="false" />
+            <element signature="e#638#639#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
+            <element signature="e#723#724#0" expanded="false" />
+            <element signature="e#767#768#0" expanded="false" />
+            <element signature="e#800#801#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1067,6 +1223,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="60" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1074,6 +1233,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1081,6 +1241,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <marker date="1464811226317" expanded="true" signature="1189:1247" placeholder="INSERT INTO Sale... " />
+            <marker date="1464811226317" expanded="true" signature="1368:1419" placeholder="SELECT id_sa... sale_store" />
+            <marker date="1464811226317" expanded="true" signature="1572:1604" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1572:1615" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1572:1642" placeholder="INSERT INTO map_device... " />
+            <marker date="1464811226317" expanded="true" signature="1853:1942" placeholder="SELECT conte... message" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1088,6 +1256,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1123,6 +1295,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1171,8 +1344,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebChat/src/main/java/ru/Controllers/SaleController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
